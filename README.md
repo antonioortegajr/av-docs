@@ -2,6 +2,7 @@
 
 ## About
 
+Events can be shared live or later after editing.
 
 ## Set Ups
 
