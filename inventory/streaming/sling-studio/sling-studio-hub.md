@@ -1,3 +1,9 @@
+# SlingStudio Hub
+
+Monitor, record, switch, edit and stream live HD-quality video wirelessly to Facebook, YouTube, Twitch, Twitter/Periscope, Livestream, Ustream, Restream.io and other RTMP destinations. 
+
+
+
 Up to 4 monitored sources via Wireless 802.11ac connectivity, supporting up to 1080p30, 720p60, and 720p30 video
 
 Up to 2 monitored sources via wireless 802.11ac connectivity, supporting up to 1080p60 video
@@ -26,7 +32,3 @@ Up to 2 monitored sources.* Some example combinations include:
 2 cameras/camcorder via CameraLink
 2 smartphones
 1 camera/camcorder via CameraLink, 1 smartphone
-# SlingStudio Hub
-
-Monitor, record, switch, edit and stream live HD-quality video wirelessly to Facebook, YouTube, Twitch, Twitter/Periscope, Livestream, Ustream, Restream.io and other RTMP destinations. 
-
