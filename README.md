@@ -15,6 +15,6 @@ Stream video and audio to Facebook, YouTube, Twitch, Twitter/Periscope, Livestre
 Record video and audio for editing and distibution later.
 
 ### Example Uses
-* Single person interviews. [Stream](setups/streaming/single-person) [Record](setups/recodring/single-person) 
-* Single person presentations [Stream] [Record]
-* Panel talks [Stream] [Record]
+* Single person interviews. [Stream](setups/streaming/single-person) or [Record](setups/recodring/single-person) 
+* Single person presentations [Stream] or [Record]
+* Panel talks [Stream] or [Record]
